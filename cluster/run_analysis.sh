@@ -32,25 +32,3 @@ cp -a *.txt $DATADIR
 
 # Remove working directory
 rm -rf "$WORKDIR"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
